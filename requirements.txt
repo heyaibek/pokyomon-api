@@ -1,0 +1,6 @@
+fastapi==0.101.0
+uvicorn==0.23.2
+sqlalchemy==2.0.19
+requests==2.31.0
+fastapi-scheduler==0.0.13
+geopy==2.3.0
